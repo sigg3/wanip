@@ -9,7 +9,7 @@ source ~/.bashrc
 
 ## Usage
 ```
-sigg3@pop-os:~/bash/wanip$ wanip 
+sigg3@pop-os:~$ wanip 
 WAN: 8.8.8.8
 ```
 ## What
